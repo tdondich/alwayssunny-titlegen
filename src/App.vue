@@ -15,8 +15,8 @@ export default {
   },
   data: () => {
     return {
-      message: 'Taylor Screws up NES Graphics Programming',
-      audio: '8bit'
+      message: 'Taylor breaks open source',
+      audio: 'normal'
     }
   }
 }
